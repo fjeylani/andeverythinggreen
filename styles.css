@@ -16,6 +16,8 @@
     margin: 1em auto;
     text-align: center;
   }
+
+
   form {
     width: 60vw;
     max-width: 500px;
@@ -58,6 +60,8 @@ input, textarea {
     background-color: #0a0a23;
     border: 1px solid #0a0a23;
     color: #ffffff;
+    font-family: 'IBM Plex Serif', serif;
+
   }
 
   .inline {
@@ -75,6 +79,8 @@ input, textarea {
     background-color: #3b3b4f;
     border-color: white;
     min-width: 300px;
+    font-family: 'IBM Plex Serif', serif;
+
   }
 
   input[type="file"] {
