@@ -24,6 +24,11 @@
     padding-bottom: 2em;
   }
 
+  .required:before {
+    content:" *";
+
+  }
+
   fieldset {
     border: none;
     padding: 2rem 0;
@@ -134,4 +139,6 @@ input, textarea {
     }
   }
   
-  
+  h6 {
+    color: red;
+  }
